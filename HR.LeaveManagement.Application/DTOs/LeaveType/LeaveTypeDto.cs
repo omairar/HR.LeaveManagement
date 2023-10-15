@@ -1,11 +1,10 @@
-﻿
-using HR.LeaveManagement.Application.DTOs.Commom;
+﻿using HR.LeaveManagement.Application.DTOs.Commom;
 
-namespace HR.LeaveManagement.Application.DTOs
+namespace HR.LeaveManagement.Application.DTOs.LeaveType
 {
     public class LeaveTypeDto : BaseDto
     {
-      
+
 
         public string Name { get; set; }
 

@@ -1,12 +1,12 @@
-﻿
-using HR.LeaveManagement.Application.DTOs.Commom;
+﻿using HR.LeaveManagement.Application.DTOs.Commom;
+using HR.LeaveManagement.Application.DTOs.LeaveType;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Application.DTOs
+namespace HR.LeaveManagement.Application.DTOs.LeaveAllocation
 {
-    public class LeaveAllocationDto: BaseDto
+    public class LeaveAllocationDto : BaseDto
     {
         public int NumberOfDays { get; set; }
         public LeaveTypeDto LeaveType { get; set; }
