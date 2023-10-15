@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
+using HR.LeaveManagement.Application.DTOs;
+using HR.LeaveManagement.Application.DTOs.Commom;
 using HR.LeaveManagement.Domain;
-using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace HR.LeaveManagement.Application.Profiles
 {

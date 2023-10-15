@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HR.LeaveManagement.Domain.Commom
+namespace HR.LeaveManagement.Application.DTOs.Commom
 {
     public abstract class BaseDto
     {

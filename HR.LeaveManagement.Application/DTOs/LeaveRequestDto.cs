@@ -1,9 +1,7 @@
-﻿using HR.LeaveManagement.Domain.Commom;
+﻿using HR.LeaveManagement.Application.DTOs.Commom;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace HR.LeaveManagement.Domain
+namespace HR.LeaveManagement.Application.DTOs
 {
     public class LeaveRequestDto : BaseDto
     {
